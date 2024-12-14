@@ -1,4 +1,4 @@
-# BTC
+# Bitcoin
 
 Address: `bc1qh8533kdjk8u6a2qed3r64httl3rr8dyfcp9e4a`
 
@@ -6,7 +6,7 @@ Scan it with your crypto wallet:
 
 <img src="qrcodes/btc.png" width="200" />
 
-# BCH
+# Bitcoin Cash
 
 Address: `qz9dtufr07ax3skqqkkg9ycldz6xr279xuj7j23uhe`
 
@@ -14,7 +14,7 @@ Scan it with your crypto wallet:
 
 <img src="qrcodes/bch.png" width="200" />
 
-# ETH
+# Ethereum
 
 Address: `0xb2F125bcc0af4AFe428aC65774A4ecFDA866d381`
 
