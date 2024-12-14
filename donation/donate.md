@@ -62,7 +62,7 @@ QR Code:
 
 <img src="qrcodes/xrp.png" width="200" />
 
-# DigiBytes
+# Digibyte
 
 Address: `dgb1qyfuqlrw2mvkppd43wu7lzelgdu5gr3wm6vgav8`
 
